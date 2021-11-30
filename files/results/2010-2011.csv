@@ -1,0 +1,381 @@
+,home_team,away_team,home_goals,away_goals,result
+0,Tottenham Hotspur,Manchester City,0.0,0.0,D
+1,Aston Villa,West Ham United,3.0,0.0,H
+2,Blackburn Rovers,Everton,1.0,0.0,H
+3,Bolton Wanderers,Fulham,0.0,0.0,D
+4,Sunderland,Birmingham City,2.0,2.0,D
+5,Wigan Athletic,Blackpool,0.0,4.0,A
+6,Wolverhampton Wanderers,Stoke City,2.0,1.0,H
+7,Chelsea,West Bromwich Albion,6.0,0.0,H
+8,Liverpool,Arsenal,1.0,1.0,D
+9,Manchester United,Newcastle United,3.0,0.0,H
+10,Arsenal,Blackpool,6.0,0.0,H
+11,Birmingham City,Blackburn Rovers,2.0,1.0,H
+12,Everton,Wolverhampton Wanderers,1.0,1.0,D
+13,Stoke City,Tottenham Hotspur,1.0,2.0,A
+14,West Bromwich Albion,Sunderland,1.0,0.0,H
+15,West Ham United,Bolton Wanderers,1.0,3.0,A
+16,Wigan Athletic,Chelsea,0.0,6.0,A
+17,Newcastle United,Aston Villa,6.0,0.0,H
+18,Fulham,Manchester United,2.0,2.0,D
+19,Manchester City,Liverpool,3.0,0.0,H
+20,Blackburn Rovers,Arsenal,1.0,2.0,A
+21,Blackpool,Fulham,2.0,2.0,D
+22,Chelsea,Stoke City,2.0,0.0,H
+23,Tottenham Hotspur,Wigan Athletic,0.0,1.0,A
+24,Wolverhampton Wanderers,Newcastle United,1.0,1.0,D
+25,Manchester United,West Ham United,3.0,0.0,H
+26,Bolton Wanderers,Birmingham City,2.0,2.0,D
+27,Liverpool,West Bromwich Albion,1.0,0.0,H
+28,Sunderland,Manchester City,1.0,0.0,H
+29,Aston Villa,Everton,1.0,0.0,H
+30,Everton,Manchester United,3.0,3.0,D
+31,Arsenal,Bolton Wanderers,4.0,1.0,H
+32,Fulham,Wolverhampton Wanderers,2.0,1.0,H
+33,Manchester City,Blackburn Rovers,1.0,1.0,D
+34,Newcastle United,Blackpool,0.0,2.0,A
+35,West Bromwich Albion,Tottenham Hotspur,1.0,1.0,D
+36,West Ham United,Chelsea,1.0,3.0,A
+37,Wigan Athletic,Sunderland,1.0,1.0,D
+38,Birmingham City,Liverpool,0.0,0.0,D
+39,Stoke City,Aston Villa,2.0,1.0,H
+40,Stoke City,West Ham United,1.0,1.0,D
+41,Aston Villa,Bolton Wanderers,1.0,1.0,D
+42,Blackburn Rovers,Fulham,1.0,1.0,D
+43,Everton,Newcastle United,0.0,1.0,A
+44,Tottenham Hotspur,Wolverhampton Wanderers,3.0,1.0,H
+45,West Bromwich Albion,Birmingham City,3.0,1.0,H
+46,Sunderland,Arsenal,1.0,1.0,D
+47,Manchester United,Liverpool,3.0,2.0,H
+48,Wigan Athletic,Manchester City,0.0,2.0,A
+49,Chelsea,Blackpool,4.0,0.0,H
+50,Manchester City,Chelsea,1.0,0.0,H
+51,Arsenal,West Bromwich Albion,2.0,3.0,A
+52,Birmingham City,Wigan Athletic,0.0,0.0,D
+53,Blackpool,Blackburn Rovers,1.0,2.0,A
+54,Fulham,Everton,0.0,0.0,D
+55,Liverpool,Sunderland,2.0,2.0,D
+56,West Ham United,Tottenham Hotspur,1.0,0.0,H
+57,Bolton Wanderers,Manchester United,2.0,2.0,D
+58,Wolverhampton Wanderers,Aston Villa,1.0,2.0,A
+59,Newcastle United,Stoke City,1.0,2.0,A
+60,Wigan Athletic,Wolverhampton Wanderers,2.0,0.0,H
+61,Birmingham City,Everton,0.0,2.0,A
+62,Stoke City,Blackburn Rovers,1.0,0.0,H
+63,Sunderland,Manchester United,0.0,0.0,D
+64,Tottenham Hotspur,Aston Villa,2.0,1.0,H
+65,West Bromwich Albion,Bolton Wanderers,1.0,1.0,D
+66,West Ham United,Fulham,1.0,1.0,D
+67,Manchester City,Newcastle United,2.0,1.0,H
+68,Liverpool,Blackpool,1.0,2.0,A
+69,Chelsea,Arsenal,2.0,0.0,H
+70,Arsenal,Birmingham City,2.0,1.0,H
+71,Bolton Wanderers,Stoke City,2.0,1.0,H
+72,Fulham,Tottenham Hotspur,1.0,2.0,A
+73,Manchester United,West Bromwich Albion,2.0,2.0,D
+74,Newcastle United,Wigan Athletic,2.0,2.0,D
+75,Wolverhampton Wanderers,West Ham United,1.0,1.0,D
+76,Aston Villa,Chelsea,0.0,0.0,D
+77,Everton,Liverpool,2.0,0.0,H
+78,Blackpool,Manchester City,2.0,3.0,A
+79,Blackburn Rovers,Sunderland,0.0,0.0,D
+80,Tottenham Hotspur,Everton,1.0,1.0,D
+81,Birmingham City,Blackpool,2.0,0.0,H
+82,Chelsea,Wolverhampton Wanderers,2.0,0.0,H
+83,Sunderland,Aston Villa,1.0,0.0,H
+84,West Bromwich Albion,Fulham,2.0,1.0,H
+85,Wigan Athletic,Bolton Wanderers,1.0,1.0,D
+86,West Ham United,Newcastle United,1.0,2.0,A
+87,Stoke City,Manchester United,1.0,2.0,A
+88,Liverpool,Blackburn Rovers,2.0,1.0,H
+89,Manchester City,Arsenal,0.0,3.0,A
+90,Arsenal,West Ham United,1.0,0.0,H
+91,Blackburn Rovers,Chelsea,1.0,2.0,A
+92,Everton,Stoke City,1.0,0.0,H
+93,Fulham,Wigan Athletic,2.0,0.0,H
+94,Wolverhampton Wanderers,Manchester City,2.0,1.0,H
+95,Manchester United,Tottenham Hotspur,2.0,0.0,H
+96,Aston Villa,Birmingham City,0.0,0.0,D
+97,Newcastle United,Sunderland,5.0,1.0,H
+98,Bolton Wanderers,Liverpool,0.0,1.0,A
+99,Blackpool,West Bromwich Albion,2.0,1.0,H
+100,Bolton Wanderers,Tottenham Hotspur,4.0,2.0,H
+101,Birmingham City,West Ham United,2.0,2.0,D
+102,Blackburn Rovers,Wigan Athletic,2.0,1.0,H
+103,Blackpool,Everton,2.0,2.0,D
+104,Fulham,Aston Villa,1.0,1.0,D
+105,Manchester United,Wolverhampton Wanderers,2.0,1.0,H
+106,Sunderland,Stoke City,2.0,0.0,H
+107,Arsenal,Newcastle United,0.0,1.0,A
+108,West Bromwich Albion,Manchester City,0.0,2.0,A
+109,Liverpool,Chelsea,2.0,0.0,H
+110,Stoke City,Birmingham City,3.0,2.0,H
+111,Tottenham Hotspur,Sunderland,1.0,1.0,D
+112,Aston Villa,Blackpool,3.0,2.0,H
+113,Chelsea,Fulham,1.0,0.0,H
+114,Newcastle United,Blackburn Rovers,1.0,2.0,A
+115,West Ham United,West Bromwich Albion,2.0,2.0,D
+116,Wigan Athletic,Liverpool,1.0,1.0,D
+117,Wolverhampton Wanderers,Arsenal,0.0,2.0,A
+118,Everton,Bolton Wanderers,1.0,1.0,D
+119,Manchester City,Manchester United,0.0,0.0,D
+120,Aston Villa,Manchester United,2.0,2.0,D
+121,Manchester City,Birmingham City,0.0,0.0,D
+122,Newcastle United,Fulham,0.0,0.0,D
+123,Tottenham Hotspur,Blackburn Rovers,4.0,2.0,H
+124,West Ham United,Blackpool,0.0,0.0,D
+125,Wigan Athletic,West Bromwich Albion,1.0,0.0,H
+126,Wolverhampton Wanderers,Bolton Wanderers,2.0,3.0,A
+127,Stoke City,Liverpool,2.0,0.0,H
+128,Everton,Arsenal,1.0,2.0,A
+129,Chelsea,Sunderland,0.0,3.0,A
+130,Arsenal,Tottenham Hotspur,2.0,3.0,A
+131,Birmingham City,Chelsea,1.0,0.0,H
+132,Blackpool,Wolverhampton Wanderers,2.0,1.0,H
+133,Bolton Wanderers,Newcastle United,5.0,1.0,H
+134,Manchester United,Wigan Athletic,2.0,0.0,H
+135,West Bromwich Albion,Stoke City,0.0,3.0,A
+136,Liverpool,West Ham United,3.0,0.0,H
+137,Blackburn Rovers,Aston Villa,2.0,0.0,H
+138,Fulham,Manchester City,1.0,4.0,A
+139,Sunderland,Everton,2.0,2.0,D
+140,Aston Villa,Arsenal,2.0,4.0,A
+141,Bolton Wanderers,Blackpool,2.0,2.0,D
+142,Everton,West Bromwich Albion,1.0,4.0,A
+143,Fulham,Birmingham City,1.0,1.0,D
+144,Manchester United,Blackburn Rovers,7.0,1.0,H
+145,Stoke City,Manchester City,1.0,1.0,D
+146,West Ham United,Wigan Athletic,3.0,1.0,H
+147,Wolverhampton Wanderers,Sunderland,3.0,2.0,H
+148,Newcastle United,Chelsea,1.0,1.0,D
+149,Tottenham Hotspur,Liverpool,2.0,1.0,H
+150,Arsenal,Fulham,2.0,1.0,H
+151,Birmingham City,Tottenham Hotspur,1.0,1.0,D
+152,Blackburn Rovers,Wolverhampton Wanderers,3.0,0.0,H
+153,Chelsea,Everton,1.0,1.0,D
+154,Manchester City,Bolton Wanderers,1.0,0.0,H
+155,Wigan Athletic,Stoke City,2.0,2.0,D
+156,West Bromwich Albion,Newcastle United,3.0,1.0,H
+157,Sunderland,West Ham United,1.0,0.0,H
+158,Liverpool,Aston Villa,3.0,0.0,H
+159,Aston Villa,West Bromwich Albion,2.0,1.0,H
+160,Everton,Wigan Athletic,0.0,0.0,D
+161,Fulham,Sunderland,0.0,0.0,D
+162,Stoke City,Blackpool,0.0,1.0,A
+163,West Ham United,Manchester City,1.0,3.0,A
+164,Newcastle United,Liverpool,3.0,1.0,H
+165,Bolton Wanderers,Blackburn Rovers,2.0,1.0,H
+166,Wolverhampton Wanderers,Birmingham City,1.0,0.0,H
+167,Tottenham Hotspur,Chelsea,1.0,1.0,D
+168,Manchester United,Arsenal,1.0,0.0,H
+169,Sunderland,Bolton Wanderers,1.0,0.0,H
+170,Blackburn Rovers,West Ham United,1.0,1.0,D
+171,Manchester City,Everton,1.0,2.0,A
+172,Fulham,West Ham United,1.0,3.0,A
+173,Blackburn Rovers,Stoke City,0.0,2.0,A
+174,Bolton Wanderers,West Bromwich Albion,2.0,0.0,H
+175,Manchester United,Sunderland,2.0,0.0,H
+176,Newcastle United,Manchester City,1.0,3.0,A
+177,Wolverhampton Wanderers,Wigan Athletic,1.0,2.0,A
+178,Aston Villa,Tottenham Hotspur,1.0,2.0,A
+179,Arsenal,Chelsea,3.0,1.0,H
+180,Manchester City,Aston Villa,4.0,0.0,H
+181,Stoke City,Fulham,0.0,2.0,A
+182,Sunderland,Blackpool,0.0,2.0,A
+183,Tottenham Hotspur,Newcastle United,2.0,0.0,H
+184,West Bromwich Albion,Blackburn Rovers,1.0,3.0,A
+185,West Ham United,Everton,1.0,1.0,D
+186,Birmingham City,Manchester United,1.0,1.0,D
+187,Chelsea,Bolton Wanderers,1.0,0.0,H
+188,Wigan Athletic,Arsenal,2.0,2.0,D
+189,Liverpool,Wolverhampton Wanderers,0.0,1.0,A
+190,West Bromwich Albion,Manchester United,1.0,2.0,A
+191,Liverpool,Bolton Wanderers,2.0,1.0,H
+192,Manchester City,Blackpool,1.0,0.0,H
+193,Stoke City,Everton,2.0,0.0,H
+194,Sunderland,Blackburn Rovers,3.0,0.0,H
+195,Tottenham Hotspur,Fulham,1.0,0.0,H
+196,West Ham United,Wolverhampton Wanderers,2.0,0.0,H
+197,Birmingham City,Arsenal,0.0,3.0,A
+198,Chelsea,Aston Villa,3.0,3.0,D
+199,Wigan Athletic,Newcastle United,0.0,1.0,A
+200,Blackpool,Birmingham City,1.0,2.0,A
+201,Fulham,West Bromwich Albion,3.0,0.0,H
+202,Manchester United,Stoke City,2.0,1.0,H
+203,Arsenal,Manchester City,0.0,0.0,D
+204,Aston Villa,Sunderland,0.0,1.0,A
+205,Newcastle United,West Ham United,5.0,0.0,H
+206,Wolverhampton Wanderers,Chelsea,1.0,0.0,H
+207,Blackburn Rovers,Liverpool,3.0,1.0,H
+208,Bolton Wanderers,Wigan Athletic,1.0,1.0,D
+209,Everton,Tottenham Hotspur,2.0,1.0,H
+210,Blackpool,Liverpool,2.0,1.0,H
+211,Chelsea,Blackburn Rovers,2.0,0.0,H
+212,Manchester City,Wolverhampton Wanderers,4.0,3.0,H
+213,Stoke City,Bolton Wanderers,2.0,0.0,H
+214,West Bromwich Albion,Blackpool,3.0,2.0,H
+215,Wigan Athletic,Fulham,1.0,1.0,D
+216,West Ham United,Arsenal,0.0,3.0,A
+217,Birmingham City,Aston Villa,1.0,1.0,D
+218,Sunderland,Newcastle United,1.0,1.0,D
+219,Liverpool,Everton,2.0,2.0,D
+220,Tottenham Hotspur,Manchester United,0.0,0.0,D
+221,Wolverhampton Wanderers,Liverpool,0.0,3.0,A
+222,Arsenal,Wigan Athletic,3.0,0.0,H
+223,Blackpool,Sunderland,1.0,2.0,A
+224,Everton,West Ham United,2.0,2.0,D
+225,Fulham,Stoke City,2.0,0.0,H
+226,Manchester United,Birmingham City,5.0,0.0,H
+227,Newcastle United,Tottenham Hotspur,1.0,1.0,D
+228,Aston Villa,Manchester City,1.0,0.0,H
+229,Blackburn Rovers,West Bromwich Albion,2.0,0.0,H
+230,Bolton Wanderers,Chelsea,0.0,4.0,A
+231,Blackpool,Manchester United,2.0,3.0,A
+232,Wigan Athletic,Aston Villa,1.0,2.0,A
+233,Liverpool,Fulham,1.0,0.0,H
+234,Arsenal,Everton,2.0,1.0,H
+235,Sunderland,Chelsea,2.0,4.0,A
+236,Manchester United,Aston Villa,3.0,1.0,H
+237,West Bromwich Albion,Wigan Athletic,2.0,2.0,D
+238,Birmingham City,Manchester City,2.0,2.0,D
+239,Blackburn Rovers,Tottenham Hotspur,0.0,1.0,A
+240,Blackpool,West Ham United,1.0,3.0,A
+241,Bolton Wanderers,Wolverhampton Wanderers,1.0,0.0,H
+242,Fulham,Newcastle United,1.0,0.0,H
+243,Liverpool,Stoke City,2.0,0.0,H
+244,Stoke City,Sunderland,3.0,2.0,H
+245,Aston Villa,Fulham,2.0,2.0,D
+246,Everton,Blackpool,5.0,3.0,H
+247,Manchester City,West Bromwich Albion,3.0,0.0,H
+248,Newcastle United,Arsenal,4.0,4.0,D
+249,Tottenham Hotspur,Bolton Wanderers,2.0,1.0,H
+250,Wigan Athletic,Blackburn Rovers,4.0,3.0,H
+251,Wolverhampton Wanderers,Manchester United,2.0,1.0,H
+252,West Ham United,Birmingham City,0.0,1.0,A
+253,Chelsea,Liverpool,0.0,1.0,A
+254,Manchester United,Manchester City,2.0,1.0,H
+255,Arsenal,Wolverhampton Wanderers,2.0,0.0,H
+256,Birmingham City,Stoke City,1.0,0.0,H
+257,Blackburn Rovers,Newcastle United,0.0,0.0,D
+258,Blackpool,Aston Villa,1.0,1.0,D
+259,Liverpool,Wigan Athletic,1.0,1.0,D
+260,West Bromwich Albion,West Ham United,3.0,3.0,D
+261,Sunderland,Tottenham Hotspur,1.0,2.0,A
+262,Bolton Wanderers,Everton,2.0,0.0,H
+263,Fulham,Chelsea,0.0,0.0,D
+264,Birmingham City,Newcastle United,0.0,2.0,A
+265,West Bromwich Albion,Wolverhampton Wanderers,1.0,1.0,D
+266,Blackpool,Tottenham Hotspur,3.0,1.0,H
+267,Arsenal,Stoke City,1.0,0.0,H
+268,Aston Villa,Blackburn Rovers,4.0,1.0,H
+269,Everton,Sunderland,2.0,0.0,H
+270,Newcastle United,Bolton Wanderers,1.0,1.0,D
+271,Wigan Athletic,Manchester United,0.0,4.0,A
+272,Wolverhampton Wanderers,Blackpool,4.0,0.0,H
+273,West Ham United,Liverpool,3.0,1.0,H
+274,Manchester City,Fulham,1.0,1.0,D
+275,Stoke City,West Bromwich Albion,1.0,1.0,D
+276,Chelsea,Manchester United,2.0,1.0,H
+277,Birmingham City,West Bromwich Albion,1.0,3.0,A
+278,Arsenal,Sunderland,0.0,0.0,D
+279,Bolton Wanderers,Aston Villa,3.0,2.0,H
+280,Fulham,Blackburn Rovers,3.0,2.0,H
+281,Newcastle United,Everton,1.0,2.0,A
+282,West Ham United,Stoke City,3.0,0.0,H
+283,Manchester City,Wigan Athletic,1.0,0.0,H
+284,Liverpool,Manchester United,3.0,1.0,H
+285,Wolverhampton Wanderers,Tottenham Hotspur,3.0,3.0,D
+286,Blackpool,Chelsea,1.0,3.0,A
+287,Everton,Birmingham City,1.0,1.0,D
+288,Tottenham Hotspur,West Ham United,0.0,0.0,D
+289,Aston Villa,Wolverhampton Wanderers,0.0,1.0,A
+290,Blackburn Rovers,Blackpool,2.0,2.0,D
+291,Manchester United,Bolton Wanderers,1.0,0.0,H
+292,Stoke City,Newcastle United,4.0,0.0,H
+293,West Bromwich Albion,Arsenal,2.0,2.0,D
+294,Wigan Athletic,Birmingham City,2.0,1.0,H
+295,Everton,Fulham,2.0,1.0,H
+296,Sunderland,Liverpool,0.0,2.0,A
+297,Chelsea,Manchester City,2.0,0.0,H
+298,West Ham United,Manchester United,2.0,4.0,A
+299,Birmingham City,Bolton Wanderers,2.0,1.0,H
+300,Everton,Aston Villa,2.0,2.0,D
+301,Newcastle United,Wolverhampton Wanderers,4.0,1.0,H
+302,Stoke City,Chelsea,1.0,1.0,D
+303,West Bromwich Albion,Liverpool,2.0,1.0,H
+304,Wigan Athletic,Tottenham Hotspur,0.0,0.0,D
+305,Arsenal,Blackburn Rovers,0.0,0.0,D
+306,Fulham,Blackpool,3.0,0.0,H
+307,Manchester City,Sunderland,5.0,0.0,H
+308,Wolverhampton Wanderers,Everton,0.0,3.0,A
+309,Blackburn Rovers,Birmingham City,1.0,1.0,D
+310,Bolton Wanderers,West Ham United,3.0,0.0,H
+311,Chelsea,Wigan Athletic,1.0,0.0,H
+312,Manchester United,Fulham,2.0,0.0,H
+313,Sunderland,West Bromwich Albion,2.0,3.0,A
+314,Tottenham Hotspur,Stoke City,3.0,2.0,H
+315,Blackpool,Arsenal,1.0,3.0,A
+316,Aston Villa,Newcastle United,1.0,0.0,H
+317,Liverpool,Manchester City,3.0,0.0,H
+318,Birmingham City,Sunderland,2.0,0.0,H
+319,Blackpool,Wigan Athletic,1.0,3.0,A
+320,Everton,Blackburn Rovers,2.0,0.0,H
+321,West Bromwich Albion,Chelsea,1.0,3.0,A
+322,West Ham United,Aston Villa,1.0,2.0,A
+323,Arsenal,Liverpool,1.0,1.0,D
+324,Newcastle United,Manchester United,0.0,0.0,D
+325,Chelsea,Birmingham City,3.0,1.0,H
+326,Tottenham Hotspur,Arsenal,3.0,3.0,D
+327,Manchester United,Everton,1.0,0.0,H
+328,Aston Villa,Stoke City,1.0,1.0,D
+329,Blackpool,Newcastle United,1.0,1.0,D
+330,Liverpool,Birmingham City,5.0,0.0,H
+331,Sunderland,Wigan Athletic,4.0,2.0,H
+332,Tottenham Hotspur,West Bromwich Albion,2.0,2.0,D
+333,Wolverhampton Wanderers,Fulham,1.0,1.0,D
+334,Chelsea,West Ham United,3.0,0.0,H
+335,Bolton Wanderers,Arsenal,2.0,1.0,H
+336,Blackburn Rovers,Manchester City,0.0,1.0,A
+337,Stoke City,Wolverhampton Wanderers,3.0,0.0,H
+338,Fulham,Bolton Wanderers,3.0,0.0,H
+339,Blackburn Rovers,Bolton Wanderers,1.0,0.0,H
+340,Blackpool,Stoke City,0.0,0.0,D
+341,Sunderland,Fulham,0.0,3.0,A
+342,West Bromwich Albion,Aston Villa,2.0,1.0,H
+343,Wigan Athletic,Everton,1.0,1.0,D
+344,Chelsea,Tottenham Hotspur,2.0,1.0,H
+345,Birmingham City,Wolverhampton Wanderers,1.0,1.0,D
+346,Liverpool,Newcastle United,3.0,0.0,H
+347,Arsenal,Manchester United,1.0,0.0,H
+348,Manchester City,West Ham United,2.0,1.0,H
+349,Aston Villa,Wigan Athletic,1.0,1.0,D
+350,Bolton Wanderers,Sunderland,1.0,2.0,A
+351,Everton,Manchester City,2.0,1.0,H
+352,Newcastle United,Birmingham City,2.0,1.0,H
+353,West Ham United,Blackburn Rovers,1.0,1.0,D
+354,Tottenham Hotspur,Blackpool,1.0,1.0,D
+355,Wolverhampton Wanderers,West Bromwich Albion,3.0,1.0,H
+356,Stoke City,Arsenal,3.0,1.0,H
+357,Manchester United,Chelsea,2.0,1.0,H
+358,Fulham,Liverpool,2.0,5.0,A
+359,Manchester City,Tottenham Hotspur,1.0,0.0,H
+360,Blackburn Rovers,Manchester United,1.0,1.0,D
+361,Blackpool,Bolton Wanderers,4.0,3.0,H
+362,Sunderland,Wolverhampton Wanderers,1.0,3.0,A
+363,West Bromwich Albion,Everton,1.0,0.0,H
+364,Chelsea,Newcastle United,2.0,2.0,D
+365,Arsenal,Aston Villa,1.0,2.0,A
+366,Birmingham City,Fulham,0.0,2.0,A
+367,Liverpool,Tottenham Hotspur,0.0,2.0,A
+368,Wigan Athletic,West Ham United,3.0,2.0,H
+369,Manchester City,Stoke City,3.0,0.0,H
+370,Aston Villa,Liverpool,1.0,0.0,H
+371,Bolton Wanderers,Manchester City,0.0,2.0,A
+372,Everton,Chelsea,1.0,0.0,H
+373,Fulham,Arsenal,2.0,2.0,D
+374,Manchester United,Blackpool,4.0,2.0,H
+375,Newcastle United,West Bromwich Albion,3.0,3.0,D
+376,Stoke City,Wigan Athletic,0.0,1.0,A
+377,Tottenham Hotspur,Birmingham City,2.0,1.0,H
+378,West Ham United,Sunderland,0.0,3.0,A
+379,Wolverhampton Wanderers,Blackburn Rovers,2.0,3.0,A
